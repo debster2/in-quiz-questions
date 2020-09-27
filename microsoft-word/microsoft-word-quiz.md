@@ -1,5 +1,6 @@
 ## Microsoft Word Assessment
 
+As of September 27, 2020 these questions aren't used anymore. I just failed the MS Word exam even though I've used it for 20 years. Maybe only two questions from here were on the assessment. 
 
 #### Q1. Which feature allows you to copy attributes of selected text and apply them to another selection?
 
